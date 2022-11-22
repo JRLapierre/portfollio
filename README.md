@@ -1,9 +1,9 @@
-#portfolio
+# portfolio
 
 ce projet est mon portfolio web. Je compte y mettre des informations sur moi-même et quelques elements additionnels.  
 Ce que vous voyez est la premiere version, encore vierge des informations pertinentes. Attendez vous a voir des changements dans les prochains jours et les prochaines semaines.
 
-###pourquoi ce projet ?
+### pourquoi ce projet ?
 
 Je fais ce portfolio pour 3 raisons principales :  
  - Un beau portfolio web pour completer le CV m'aidera a me faire embaucher, d'autant plus avec la quantité de postes a pourvoir dans ce domaine.  
@@ -11,17 +11,19 @@ Je fais ce portfolio pour 3 raisons principales :
  - Il me semble qu'il faudra rendre un portfolio en cours. Je n'en suis pas certain, mais il me semble qu'il faut le rendre en decembre. Je prevois de faire de ce projet le projet que je vais rendre.
 
 
-###choses a faire pour continuer le projet
+### choses a faire pour continuer le projet
 
-####urgent :
+#### urgent :
 
-####a faire : 
+#### a faire : 
  - mettre le projet sur github  
  - mettre les infos sur moi-même dans les pages  
  - integrer un framework laravel  
+ - mettre des images d'illustrations
+ - mettre les notations sous une autre forme
 
 
-####trucs a finir si j'en ai le courrage : 
+#### trucs a finir si j'en ai le courrage : 
 
-####idees : 
+#### idees : 
  - integrer un puissance4 contre des AI créés par mon projet d'evolution
