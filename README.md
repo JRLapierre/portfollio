@@ -16,8 +16,6 @@ Je fais ce portfolio pour 3 raisons principales :
 #### urgent :
 
 #### a faire : 
- - mettre le projet sur github  
- - mettre les infos sur moi-même dans les pages  
  - integrer un framework laravel  
  - mettre des images d'illustrations
  - mettre les notations sous une autre forme
