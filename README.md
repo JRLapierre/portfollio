@@ -18,7 +18,6 @@ Je fais ce portfolio pour 3 raisons principales :
 #### a faire : 
  - integrer un framework laravel  
  - mettre des images d'illustrations
- - mettre les notations sous une autre forme
 
 
 #### trucs a finir si j'en ai le courrage : 
