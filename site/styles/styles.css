@@ -32,3 +32,44 @@
   .sidenav {padding-top: 15px;}
   .sidenav a {font-size: 18px;}
 }
+
+/* pour les competences*/
+* {
+  box-sizing: border-box;
+}
+
+
+.circle {
+  border-radius: 50%;
+  width: 20px;
+  height: 20px;
+}
+
+.vert1{
+  background-color: #99cb38;
+}
+
+.vert2{
+  background-color: #e2f0d9;
+}
+
+.columnDessin {
+  float: left;
+  width: 20px;
+  padding: 10px;
+  margin-left: 10px;
+  margin-top: 8px;
+}
+
+.columnEcriture {
+  float: left;
+  width: 160px;
+  padding: 10px;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
