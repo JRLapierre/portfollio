@@ -1,7 +1,6 @@
 # portfolio
 
 ce projet est mon portfolio web. Je compte y mettre des informations sur moi-même et quelques éléments additionnels.  
-Ce que vous voyez est la première version, encore vierge des informations pertinentes. Attendez-vous à voir des changements dans les prochains jours et les prochaines semaines.
 
 ### pourquoi ce projet ?
 
@@ -16,7 +15,9 @@ Je fais ce portfolio pour 3 raisons principales :
 #### urgent :
 
 #### a faire : 
- - intégrer un Framework laravel  
+ - intégrer un Framework laravel :  
+   - mettre une route par defaut sur la homepage
+   - faire une interface pour le puissance 4 
  - mettre des images d'illustrations  
 
 
