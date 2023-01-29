@@ -13,11 +13,13 @@ Je fais ce portfolio pour 3 raisons principales :
 ### choses à faire pour continuer le projet
 
 #### urgent :
+Rajouter des images et des icones  
+Corriger les titres  
 
 #### a faire : 
  - intégrer un Framework laravel :  
    - mettre une route par defaut sur la homepage
-   - faire une interface pour le puissance 4 
+   - faire une interface pour le puissance 4  
  - mettre des images d'illustrations  
 
 

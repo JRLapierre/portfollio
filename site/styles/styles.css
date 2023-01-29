@@ -16,6 +16,7 @@
   text-decoration: none;
   font-size: 25px;
   display: block;
+  color:black;
 }
 
 .sidenav a:hover {/*changemement de couleurs si on passe la souris dessus*/
@@ -25,6 +26,7 @@
 .main {
   margin-left: 200px; /* Same as the width of the sidenav */
   padding: 0px 10px;
+  max-width: 800px;
 }
 
 /* On smaller screens, where height is less than 450px, change the style of the sidebar (less padding and a smaller font size) */
@@ -36,6 +38,7 @@
 /* pour les competences*/
 * {
   box-sizing: border-box;
+  font-family: sans-serif;
 }
 
 
